@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-fisio-avanzata/
+demo-fisio-avanzata/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)
