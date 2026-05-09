@@ -1,0 +1,94 @@
+{
+  "tecnologie": [
+    {
+      "id": 1,
+      "nome": "PoseNet 3D Analisi Movimento",
+      "categoria": "diagnostica",
+      "descrizione": "Sistema di motion capture basato su AI per l'analisi tridimensionale del movimento in tempo reale. Identifica asimmetrie posturali e schemi motori disfunzionali.",
+      "indicazioni": ["Valutazione posturale", "Analisi del cammino", "Biomeccanica sportiva", "Pre/post chirurgia"]
+    },
+    {
+      "id": 2,
+      "nome": "Isocinetica",
+      "categoria": "riabilitazione",
+      "descrizione": "Dinamometria isocineta per valutazione e rinforzo muscolare con resistenza costante. Standard oro per il recupero funzionale del ginocchio e della spalla.",
+      "indicazioni": ["Riabilitazione post-operatoria", "Deficit muscolari", "Valutazione forza", "Sport"]
+    },
+    {
+      "id": 3,
+      "nome": "Onde d'Urto Extracorporee",
+      "categoria": "terapia-fisica",
+      "descrizione": "Tecarterapia ad alta energia per tendinopatie croniche, calcificazioni e pseudoartrosi. Stimola la rigenerazione tissutale e riduce il dolore cronico.",
+      "indicazioni": ["Tendinopatie", "Epicondilite", "Fascite plantare", "Calcificazioni"]
+    },
+    {
+      "id": 4,
+      "nome": "Laser HIL High Intensity",
+      "categoria": "terapia-fisica",
+      "descrizione": "Laser ad alta intensità di terza generazione per riduzione del dolore acuto e cronico, riassorbimento edemi e accelerazione della guarigione tissutale.",
+      "indicazioni": ["Dolore acuto", "Ernia del disco", "Gonalgia", "Lesioni muscolari"]
+    },
+    {
+      "id": 5,
+      "nome": "Tecarterapia Capacitiva/Resistiva",
+      "categoria": "terapia-fisica",
+      "descrizione": "Diatermia a radiofrequenza per il trattamento profondo di muscoli, tendini e articolazioni. Riduce infiammazione e migliora l'elasticità tissutale.",
+      "indicazioni": ["Contratture muscolari", "Artrosi", "Lesioni tendinee", "Post-trauma"]
+    },
+    {
+      "id": 6,
+      "nome": "Magnetoterapia ad Alta Frequenza",
+      "categoria": "terapia-fisica",
+      "descrizione": "Campo magnetico pulsato ad alta frequenza per la riduzione del dolore, il consolidamento osseo e il trattamento dell'artrosi.",
+      "indicazioni": ["Fratture", "Artrosi", "Osteoporosi", "Infiammazioni croniche"]
+    },
+    {
+      "id": 7,
+      "nome": "TENS Correnti Interferenziali",
+      "categoria": "elettroterapia",
+      "descrizione": "Elettrostimolazione transcutanea per il controllo del dolore acuto e cronico. Inibizione del gate control e rilascio di endorfine.",
+      "indicazioni": ["Lombalgia", "Dolore post-operatorio", "Nevralgie", "Dolore cronico"]
+    },
+    {
+      "id": 8,
+      "nome": "Ecografia Muscolo-Scheletrica",
+      "categoria": "diagnostica",
+      "descrizione": "Diagnostica ecografica per immagini real-time di tendini, muscoli e articolazioni. Guida le infiltrazioni eco-guidate.",
+      "indicazioni": ["Tendinopatie", "Strappi muscolari", "Lesioni legamentose", "Gangli"]
+    },
+    {
+      "id": 9,
+      "nome": "Pedana Stabilometrica",
+      "categoria": "diagnostica",
+      "descrizione": "Analisi dell'equilibrio e della distribuzione dei carichi plantari. Fondamentale per la valutazione posturale e il follow-up riabilitativo.",
+      "indicazioni": ["Disturbi dell'equilibrio", "Piede piatto/cavo", "Posturologia", "Prevenzione cadute"]
+    },
+    {
+      "id": 10,
+      "nome": "Ultrasuoni Terapeutici",
+      "categoria": "terapia-fisica",
+      "descrizione": "Ultrasuoni a 1 e 3 MHz per il trattamento profondo di contratture, tendiniti e cicatrici. Effetto termico e meccanico combinato.",
+      "indicazioni": ["Contratture profonde", "Cicatrici fibrotiche", "Tendiniti", "Capsuliti"]
+    },
+    {
+      "id": 11,
+      "nome": "Biofeedback EMG",
+      "categoria": "riabilitazione",
+      "descrizione": "Elettromiografia di superficie per il controllo in tempo reale dell'attivazione muscolare. Ottimizza il reclutamento nei programmi di rinforzo.",
+      "indicazioni": ["Riabilitazione neurologica", "Disfunzioni posturali", "Recupero forza", "Coordinazione"]
+    },
+    {
+      "id": 12,
+      "nome": "Crioultrasonoterapia",
+      "categoria": "terapia-fisica",
+      "descrizione": "Combinazione di crioterapia controllata e ultrasuoni per il trattamento delle fasi acute di tendiniti, distorsioni e lesioni muscolari.",
+      "indicazioni": ["Fase acuta trauma", "Distorsioni", "Contusioni", "Dolore post-gara"]
+    }
+  ],
+  "categorie": [
+    { "id": "diagnostica", "nome": "Diagnostica avanzata", "ordine": 1 },
+    { "id": "riabilitazione", "nome": "Riabilitazione", "ordine": 2 },
+    { "id": "terapia-fisica", "nome": "Terapia fisica", "ordine": 3 },
+    { "id": "elettroterapia", "nome": "Elettroterapia", "ordine": 4 }
+  ]
+}

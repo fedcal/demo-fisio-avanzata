@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Siete convenzionati con il Servizio Sanitario Nazionale?",
+      "risposta": "Spine Center Milano è una struttura privata accreditata. Accettiamo pagamenti con mutue sanitarie integrative (UniSalute, Previmedical, Fasi, ecc.) e rimborsi assicurativi. Non siamo convenzionati SSN."
+    },
+    {
+      "domanda": "È necessaria una prescrizione medica per accedere alla fisioterapia?",
+      "risposta": "Per le prime valutazioni ortopediche non è richiesta prescrizione. Per il ciclo fisioterapico successivo, la prescrizione medica è consigliata per la documentazione clinica ma non obbligatoria in regime privato."
+    },
+    {
+      "domanda": "Come funziona la prima visita ortopedica?",
+      "risposta": "La prima visita (90 min, €120) include anamnesi completa, esame obiettivo, analisi posturale con PoseNet 3D e redazione di un piano terapeutico personalizzato. Al termine riceverai il referto scritto."
+    },
+    {
+      "domanda": "Posso portare referti e immagini diagnostiche precedenti?",
+      "risposta": "Assolutamente sì, anzi è consigliato. Porta con te RX, RM, TAC e qualsiasi documentazione clinica precedente. Possono essere determinanti per ottimizzare il percorso terapeutico."
+    },
+    {
+      "domanda": "Le sedute di fisioterapia sono detraibili fiscalmente?",
+      "risposta": "Sì. Le prestazioni sanitarie erogate da specialisti iscritti all'albo sono detraibili al 19% nella dichiarazione dei redditi. Rilasciamo fatture fiscalmente valide con indicazione della natura sanitaria."
+    },
+    {
+      "domanda": "Come mi devo comportare per le sedute di terapia fisica (laser, onde d'urto)?",
+      "risposta": "Indossa abbigliamento comodo che consenta l'accesso alla zona da trattare. Non applicare creme o oli prima della seduta. Per le onde d'urto è normale una lieve dolenzia post-trattamento per 24-48 ore."
+    },
+    {
+      "domanda": "Trattate pazienti anziani e fragili?",
+      "risposta": "Sì, abbiamo percorsi dedicati per pazienti geriatrici con protocolli adattati. La struttura è completamente accessibile ai disabili. La fisioterapista specialista in neuroriabilitazione gestisce il percorso per pazienti complessi."
+    },
+    {
+      "domanda": "Quante sedute sono in genere necessarie per un percorso riabilitativo?",
+      "risposta": "Il numero varia in base alla patologia e alla risposta individuale. Percorsi tipici: post-operatorio 15-20 sedute, lombalgia acuta 8-12 sedute, scoliosi 20+ sedute. Il piano viene rivalutato ogni 6 sedute."
+    }
+  ]
+}

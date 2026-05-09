@@ -1,0 +1,54 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dr. Marco Ferretti",
+      "ruolo": "Ortopedico e Direttore Sanitario",
+      "bio": "Ortopedico con specializzazione in chirurgia della colonna vertebrale. Ex primario AO Niguarda, 25 anni di carriera tra chirurgia e riabilitazione conservativa.",
+      "anniEsperienza": 25,
+      "albo": "Ordine dei Medici di Milano n. 42315",
+      "image": "/assets/img/team/ferretti.jpg",
+      "specialita": ["Chirurgia colonna", "Ortopedia conservativa", "Riabilitazione post-chirurgica"]
+    },
+    {
+      "id": 2,
+      "nome": "Dott.ssa Laura Conti",
+      "ruolo": "Fisioterapista Specialista Colonna",
+      "bio": "Laurea magistrale in Fisioterapia, master in terapia manuale ortopedica OMT. Specializzata nel trattamento delle patologie vertebrali e posturali.",
+      "anniEsperienza": 14,
+      "albo": "Albo TSRM-PSTRP Lombardia n. 7821",
+      "image": "/assets/img/team/conti.jpg",
+      "specialita": ["Terapia manuale OMT", "Scoliosi SEAS", "McKenzie Method", "PoseNet Analysis"]
+    },
+    {
+      "id": 3,
+      "nome": "Dott. Alessandro Russo",
+      "ruolo": "Fisioterapista Sportivo",
+      "bio": "Fisioterapista ufficiale di tre società di Serie A. Specializzato in biomeccanica dello sport, recupero da infortuni muscolari e prevenzione con isocinetica.",
+      "anniEsperienza": 11,
+      "albo": "Albo TSRM-PSTRP Lombardia n. 9104",
+      "image": "/assets/img/team/russo.jpg",
+      "specialita": ["Fisioterapia sportiva", "Isocinetica", "Biomeccanica", "Prevenzione infortuni"]
+    },
+    {
+      "id": 4,
+      "nome": "Dott.ssa Sofia Marchetti",
+      "ruolo": "Fisioterapista Neurologica",
+      "bio": "Master in neuroriabilitazione. Esperta nel trattamento di pazienti post-ictus, con Parkinson e sclerosi multipla. Certificata nel metodo Bobath e PNF.",
+      "anniEsperienza": 9,
+      "albo": "Albo TSRM-PSTRP Lombardia n. 11247",
+      "image": "/assets/img/team/marchetti.jpg",
+      "specialita": ["Neuroriabilitazione", "Metodo Bobath", "PNF", "Riabilitazione ictus"]
+    },
+    {
+      "id": 5,
+      "nome": "Dott. Giorgio Testa",
+      "ruolo": "Osteopata DO",
+      "bio": "Diploma in Osteopatia conseguito al CERDO di Roma. Approccio cranio-sacrale e fasciale integrato con la fisioterapia ortopedica per il trattamento delle disfunzioni viscero-somatiche.",
+      "anniEsperienza": 16,
+      "albo": "ROI Registro Osteopati Italia n. 5872",
+      "image": "/assets/img/team/testa.jpg",
+      "specialita": ["Osteopatia strutturale", "Tecnica cranio-sacrale", "Approccio fasciale", "Medicina integrata"]
+    }
+  ]
+}

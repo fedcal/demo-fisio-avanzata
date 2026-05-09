@@ -1,0 +1,120 @@
+{
+  "servizi": [
+    {
+      "id": 1,
+      "categoria": "ortopedia",
+      "nome": "Visita ortopedica specialistica",
+      "descrizione": "Valutazione diagnostica completa dell'apparato muscoloscheletrico con anamnesi clinica e test funzionali.",
+      "prezzo": 120,
+      "durata": "60 min",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "categoria": "post-operatoria",
+      "nome": "Fisioterapia post-operatoria",
+      "descrizione": "Programma riabilitativo personalizzato dopo interventi chirurgici ortopedici. Recupero funzionale completo.",
+      "prezzo": 80,
+      "durata": "50 min",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "categoria": "neurologica",
+      "nome": "Riabilitazione neurologica",
+      "descrizione": "Trattamento riabilitativo per patologie neurologiche: ictus, Parkinson, sclerosi multipla, lesioni midollari.",
+      "prezzo": 90,
+      "durata": "60 min",
+      "featured": false
+    },
+    {
+      "id": 4,
+      "categoria": "colonna",
+      "nome": "Trattamento scoliosi",
+      "descrizione": "Protocollo specifico per scoliosi idiopatica e degenerativa, con esercizi SEAS e corsetteria ortopedica.",
+      "prezzo": 75,
+      "durata": "50 min",
+      "featured": true
+    },
+    {
+      "id": 5,
+      "categoria": "colonna",
+      "nome": "Terapia ernia del disco",
+      "descrizione": "Approccio multimodale per ernia lombare e cervicale: decompressione, terapia manuale e esercizio terapeutico.",
+      "prezzo": 80,
+      "durata": "50 min",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "categoria": "arti-inferiori",
+      "nome": "Riabilitazione ginocchio",
+      "descrizione": "Protocolli per lesioni LCA, menisco, condropatia rotulea. Recupero sport-specifico con isocinetica.",
+      "prezzo": 75,
+      "durata": "50 min",
+      "featured": false
+    },
+    {
+      "id": 7,
+      "categoria": "arti-inferiori",
+      "nome": "Riabilitazione anca",
+      "descrizione": "Recupero post-protesi d'anca, conflitto femoroacetabolare, tendinopatie. Analisi del cammino con PoseNet.",
+      "prezzo": 75,
+      "durata": "50 min",
+      "featured": false
+    },
+    {
+      "id": 8,
+      "categoria": "sport",
+      "nome": "Fisioterapia sportiva",
+      "descrizione": "Valutazione funzionale e riabilitazione per atleti: strappi muscolari, tendiniti, distorsioni, prevenzione infortuni.",
+      "prezzo": 85,
+      "durata": "60 min",
+      "featured": false
+    },
+    {
+      "id": 9,
+      "categoria": "colonna",
+      "nome": "Cervicalgia e cefalea tensiva",
+      "descrizione": "Trattamento specifico per cervicalgia cronica, torcicollo e cefalea tensiva con terapia manuale e dry needling.",
+      "prezzo": 70,
+      "durata": "45 min",
+      "featured": false
+    },
+    {
+      "id": 10,
+      "categoria": "post-operatoria",
+      "nome": "Recupero post-frattura",
+      "descrizione": "Programma riabilitativo dopo fratture degli arti superiori e inferiori, recupero completo di forza e mobilità.",
+      "prezzo": 70,
+      "durata": "45 min",
+      "featured": false
+    },
+    {
+      "id": 11,
+      "categoria": "ortopedia",
+      "nome": "Posturologia e analisi del movimento",
+      "descrizione": "Valutazione posturale avanzata con sistema PoseNet 3D e pedana stabilometrica. Report biomeccanico completo.",
+      "prezzo": 200,
+      "durata": "90 min",
+      "featured": false
+    },
+    {
+      "id": 12,
+      "categoria": "sport",
+      "nome": "Preparazione atletica e prevenzione",
+      "descrizione": "Programmi di forza, propriocezione e correzione biomeccanica per migliorare la performance e ridurre il rischio infortuni.",
+      "prezzo": 60,
+      "durata": "45 min",
+      "featured": false
+    }
+  ],
+  "categorie": [
+    { "id": "ortopedia", "nome": "Ortopedia", "ordine": 1 },
+    { "id": "colonna", "nome": "Colonna vertebrale", "ordine": 2 },
+    { "id": "post-operatoria", "nome": "Post-operatoria", "ordine": 3 },
+    { "id": "neurologica", "nome": "Neurologica", "ordine": 4 },
+    { "id": "arti-inferiori", "nome": "Arti inferiori", "ordine": 5 },
+    { "id": "sport", "nome": "Sport", "ordine": 6 }
+  ]
+}

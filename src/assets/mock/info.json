@@ -1,0 +1,38 @@
+{
+  "ragioneSociale": "Spine Center Milano S.r.l.",
+  "nomeCommerciale": "Spine Center Milano",
+  "tagline": "Centro di eccellenza per colonna e ortopedia",
+  "indirizzo": {
+    "via": "Via Tortona 15",
+    "citta": "Milano",
+    "provincia": "MI",
+    "cap": "20144",
+    "regione": "Lombardia",
+    "paese": "Italia",
+    "lat": 45.4558,
+    "lng": 9.1659
+  },
+  "contatti": {
+    "telefono": "+39 02 1234 5678",
+    "whatsapp": "+39 348 1234 567",
+    "email": "info@spinecenter.demo.it",
+    "social": {
+      "instagram": "https://instagram.com/spinecenter_demo",
+      "facebook": "https://facebook.com/spinecenter_demo"
+    }
+  },
+  "orari": {
+    "lunedi": "08:00 – 20:00",
+    "martedi": "08:00 – 20:00",
+    "mercoledi": "08:00 – 20:00",
+    "giovedi": "08:00 – 20:00",
+    "venerdi": "08:00 – 20:00",
+    "sabato": "09:00 – 13:00",
+    "domenica": "Chiuso"
+  },
+  "metaSeo": {
+    "title": "Spine Center Milano — Fisioterapia avanzata per colonna e ortopedia",
+    "description": "Centro di eccellenza fisioterapico a Milano. PoseNet 3D, isocinetica, onde d'urto, laser HIL. 12 specialità riabilitative €60-200. Prenota online.",
+    "keywords": ["fisioterapia milano", "spine center milano", "riabilitazione ortopedica", "fisioterapista specializzato"]
+  }
+}
