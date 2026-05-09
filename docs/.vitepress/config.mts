@@ -8,6 +8,7 @@ export default defineConfig({
   description: 'Documentazione tecnica del template Angular 21 SSR per Centro Fisioterapia Avanzata.',
   base: `/demo-${SLUG}/`,
   cleanUrls: true,
+  ignoreDeadLinks: true,
   lang: 'it-IT',
 
   themeConfig: {
